@@ -33,25 +33,46 @@ I am pursuing roles in:
 ---
 
 ## 🛠️ Tools & Technologies
+- The following tools were applied across portfolio projects, coursework, and hands-on SDLC simulations.
 
-**Analysis & Documentation**
+### Analysis & Documentation
 - MS Visio
+- Draw.io
+- Mermaid Diagrams
 - Microsoft Office Suite
 - Process Modeling & Workflow Diagrams
 
-**Testing & Validation**
+### Testing & Validation
+- Manual Functional Testing
 - TestRail
 - Postman
 - SOAP API Testing
-- TestNG (exposure)
+- Selenium WebDriver (exposure)
+- TestNG / JUnit (exposure)
+- Katalon Studio (exposure)
 
-**Data & Development**
-- SQL
+### Performance Testing
+- JMeter (exposure)
+- BlazeMeter (exposure)
+
+### Test & Work Management
+- JIRA
+- Trello
+- Slack
+
+### DevOps & Continuous Integration
+- Jenkins (CI exposure)
+- GitHub Version Control
+- Visual Studio
+
+### Data & Development Foundations
+- SQL (DB2 exposure)
 - Python (Foundational)
 - Java (Foundational)
-- Visual Studio
-- GitHub Version Control
 
+### Cloud & Platforms
+- Microsoft Azure 
+  
 ---
 
 ## 📂 Featured Portfolio Projects

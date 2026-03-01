@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi, I'm Tola Soyoye 👋
 
-<!--
-**tollysho/tollysho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Business Systems Analyst | Quality Assurance Analyst | Systems Validation | SDLC Documentation**
 
-Here are some ideas to get you started:
+I specialize in bridging **business requirements, system functionality, and quality validation** within Software Development Life Cycle (SDLC) environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on ensuring enterprise applications align with business needs through structured analysis, testing, and documentation practices.
+
+---
+
+## 🎯 Professional Focus
+
+I am pursuing roles in:
+
+- Information Systems Analyst
+- Technical Business Analyst
+- Business Systems Analyst
+- QA / Systems Validation Analyst
+
+---
+
+## 🔧 Core Competencies
+
+- Software Development Life Cycle (SDLC)
+- Requirements Analysis & Use Case Development
+- Business Process & Workflow Analysis
+- Manual Functional Testing
+- API Testing (Postman, SOAP)
+- Requirements Traceability & Validation
+- Technical Documentation & Reporting
+- SQL & Relational Databases (DB2 exposure)
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Analysis & Documentation**
+- MS Visio
+- Microsoft Office Suite
+- Process Modeling & Workflow Diagrams
+
+**Testing & Validation**
+- TestRail
+- Postman
+- SOAP API Testing
+- TestNG (exposure)
+
+**Data & Development**
+- SQL
+- Python (Foundational)
+- Java (Foundational)
+- Visual Studio
+- GitHub Version Control
+
+---
+
+## 📂 Featured Portfolio Projects
+
+### 🔹 SauceDemo Manual Testing & SDLC Validation
+Simulated enterprise testing workflow demonstrating requirements validation, defect lifecycle management, and structured QA documentation.
+
+👉 https://github.com/tollysho/saucedemo-manual-testing-portfolio
+
+---
+
+## 🧠 What My Portfolio Demonstrates
+
+✔ SDLC participation  
+✔ Requirements validation and traceability  
+✔ Application testing and quality assurance workflows  
+✔ Business and technical documentation skills  
+✔ Systems analysis mindset
+
+---
+
+## 🌱 Continuous Learning
+
+- IBM Data Science Professional Certification
+- ISTQB Certified Tester – Foundation Level
+- ISTQB Agile Tester Certification
+- Business Systems Analysis Training
+- Programming Foundations (SQL, Python, Java)
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/tola-s-484a0b22b/  
+📍 Illinois, United States
+
+---
+
+⭐ *Thank you for visiting my portfolio.*

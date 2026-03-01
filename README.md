@@ -56,10 +56,10 @@ I am pursuing roles in:
 
 ## 📂 Featured Portfolio Projects
 
-### 🔹 SauceDemo Manual Testing & SDLC Validation
+### 🔹 SauceDemo Application Validation Project
 Simulated enterprise testing workflow demonstrating requirements validation, defect lifecycle management, and structured QA documentation.
 
-👉 https://github.com/tollysho/saucedemo-manual-testing-portfolio
+👉 https://github.com/tollysho/saucedemo-system-validation
 
 ---
 

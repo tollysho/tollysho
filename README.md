@@ -1,6 +1,6 @@
 # Hi, I'm Tola Soyoye 👋
 
-**Technical Business Systems Analyst | Quality Assurance Analyst | Systems Validation | SDLC Documentation**
+**Technical Business Systems Analyst specializing in requirements analysis, system validation, and SDLC-driven application delivery.**
 
 I specialize in bridging **business requirements, system functionality, and quality validation** within Software Development Life Cycle (SDLC) environments.
 
